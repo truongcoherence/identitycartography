@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "_sidebar.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_sidebar"
+              "title": "_sidebar.md"
             }
           }
         ],
@@ -212,7 +212,7 @@
   "active": "735c3b9b31e2248a",
   "lastOpenFiles": [
     "ORIENTATION/Canonical Map — Structural Compass.md",
-    "_sidebar.md",
+    "_sidebar.md.md",
     "STRUCTURIA (CANON)/PERIL.md",
     "STRUCTURIA (CANON)/QUANTUM.md",
     "STRUCTURIA (CANON)/STEWARDSHIP.md",
