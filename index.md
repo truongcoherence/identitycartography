@@ -1,5 +1,11 @@
+# {% include sidebar.html %}
+
+
+
 # Welcome to Identity Cartography
-#### ***A map of the interior world built from pressure, structure, and movement
+
+#### \*\*\*A map of the interior world built from pressure, structure, and movement
+
 Every person moves through an interior world shaped by forces they cannot always name.
 
 Identity Cartography is the discipline that makes those forces visible.
@@ -25,16 +31,20 @@ Clarity is the ethic.
 Precision is the stance.
 
 ## What Lives Here
+
 Structuria (The Canon)
 The core physics of identity.
 
 ### Applications
+
 Where the physics touch real life: transitions, relationships, work, collapse, reconstruction, and identity under pressure.
 
 ### Field Notes
+
 Observations from the edges of the system — experiments, case studies, and live reasoning.
 
 ### How to Begin
+
 Start with the Legend.
 
 It gives you the grammar of the discipline — the shapes, the forces, the boundaries.
@@ -46,6 +56,7 @@ From there, follow whatever draws your attention.
 Identity Cartography is modular; every entry point is valid.
 
 ## Why This Exists
+
 Most people navigate identity by inference — guessing at the rules, absorbing the expectations, hoping their internal compass is calibrated.
 
 Identity Cartography offers something different:
@@ -66,8 +77,9 @@ The path is yours.
 
 ## Sections
 
-- [Applications](APPLICATIONS/index.md)
-- [Field Notes](FIELD%20NOTES/index.md)
-- [Operators](OPERATORS/index.md)
-- [Orientation](ORIENTATION/index.md)
-- [Structuria (Canon)](STRUCTURIA%20(CANON)/index.md)
+* [Applications](APPLICATIONS/index.md)
+* [Field Notes](FIELD%20NOTES/index.md)
+* [Operators](OPERATORS/index.md)
+* [Orientation](ORIENTATION/index.md)
+* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+
