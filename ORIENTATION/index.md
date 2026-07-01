@@ -1,16 +1,16 @@
 # Orientation
 
-This page has everything you need to understand what Identity Cartography is and how to use it. This is a discipline built on constraints. 
+This page has everything you need to understand what Identity Cartography is and how the maps it produces are meant to be used.
 
 ----
-### Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
 
 ------
-### Articles:
-- 
+### Resources:
+- [About Page](../ORIENTATION/About%20Page.md)
+- [Attributions] (../ORIENTATION/Attributions%&%Permissions.md)
+- [Boundary Conditions] (../ORIENTATION/Boundary%20Conditions%20&%20Falsability%20&%20Permissions.md)
+- [Canonical Map](ORIENTATION/Canonical%20Map%20 —%20Structural%20Compass.md)
+- [Legend](../ORIENTATION/Legend.md)
