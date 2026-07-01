@@ -1,4 +1,4 @@
-# Morphophysics
+# MORPHOPHYSICS
 ### ***Identity‑Form Environmental Physics***
 
 ![](https://substackcdn.com/image/fetch/$s_!HgUo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42cb4c9b-4eec-441e-a843-4782db662b30_742x680.png)
