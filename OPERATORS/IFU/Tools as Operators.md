@@ -1,4 +1,5 @@
-A structural clarification for readers of Identity Cartography
+# How Operators Work
+### ***A structural clarification for readers of Identity Cartography***
 
 Identity Cartography uses the word “tool” in two different ways.  
 This distinction matters, because each meaning operates at a different level of the discipline.
@@ -249,10 +250,8 @@ This is why the six tools are operators.
 This is why the system is closed.  
 This is why the architecture remains stable.
 
-## Sections
+------
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+md)
