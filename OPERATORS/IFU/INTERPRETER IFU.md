@@ -173,7 +173,7 @@ The system offers openings, not tailored fits.
 
 Continuity constraint
 
-** Staying means stepping into a known structure; leaving means stepping into an unknown one. **
+**Staying means stepping into a known structure; leaving means stepping into an unknown one.**
 
 No alternative scenario exists without breaking these constraints.
 
@@ -273,7 +273,7 @@ When the structure becomes visible:
 
 The calm that sometimes follows is a reaction to clarity, not a function of the tool.
 
-##Boundary with therapy
+## Boundary with therapy
 
 Interpreter operates in emotionally charged moments:
 - collapsing assumptions
