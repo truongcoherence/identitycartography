@@ -15,7 +15,7 @@ This page has everything you need to understand what Identity Cartography is and
 - [Canonical Map](../ORIENTATION/Canonical%20Map%20—%20Structural%20Compass.md)
 - [Legend](../ORIENTATION/Legend.md)
 
-ORIENTATION/Boundary%20Conditions%20&%20Falsifiability.md
+
 
 
 
