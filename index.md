@@ -16,7 +16,7 @@ This publication is where that discipline lives.
 
 Its founding canon, Structuria, is the mapmaker’s first rendering of the internal world:
 
-a physics of identity built from pressure, constraint, and movement.
+***a physics of identity built from pressure, constraint, and movement.***
 
 Identity Cartography is austere by design.
 
@@ -28,7 +28,7 @@ Precision is the stance.
 
 ## What Lives Here
 
-Structuria (The Canon)
+###Structuria (The Canon)
 The core physics of identity.
 
 ### Applications
@@ -39,7 +39,15 @@ Where the physics touch real life: transitions, relationships, work, collapse, r
 
 Observations from the edges of the system — experiments, case studies, and live reasoning.
 
-### How to Begin
+### Operators
+
+Tools that reveal that reveal the terrain
+
+### Orientations
+
+Resources for helping you understand the larger map.
+
+## How to Begin
 
 Start with the Legend.
 
@@ -57,7 +65,7 @@ Most people navigate identity by inference — guessing at the rules, absorbing 
 
 Identity Cartography offers something different:
 
-a way to see the structure beneath experience, so movement becomes intentional instead of reactive.
+*** a way to see the structure beneath experience, so movement becomes intentional instead of reactive.***
 
 This is not psychology.
 
