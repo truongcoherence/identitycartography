@@ -1,62 +1,54 @@
-
-### ***Expanding the Frame of Interpretation
+# LENS
+### ***Expanding the Frame of Interpretation***
 
 ![](https://substackcdn.com/image/fetch/$s_!sVev!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F472a31ed-1191-4fb4-b79f-39d9209006e9_897x891.png)
-# **Purpose**
+## Purpose
 Lens is a structural tool for widening the frame of interpretation. It reveals multiple structurally plausible vantage points within a single situation so the moment cannot collapse into a single, incomplete story.
 
 Lens prevents premature certainty by showing:
 
-what each position can see
-
-what each position cannot see
-
-what constraints shape each position
-
-what actions were realistically available
+- what each position can see
+- what each position cannot see
+- what constraints shape each position
+- what actions were realistically available
 
 The tool does not determine what happened.
 It expands the situation until it can no longer be treated as singular.
 
-Why This Tool Exists
+##Why This Tool Exists
+
 Most explanations of behavior default to intention, personality, or character.
 Lens replaces these with structure:
-
-visibility
-
-constraint
-
-pressure
-
-feasible action
+- visibility
+- constraint
+- pressure
+- feasible action
 
 Behavior becomes coherent when viewed through the conditions that shaped it.
 
 Lens shifts the question from:
 
-“Why did they do that?”
+***"Why did they do that?”***
 to
-“What situation would make that behavior make sense?”
+***"What situation would make that behavior make sense?”***
 
-How Lens Works
+## How Lens Works
+
 When a situation feels obvious, Lens interrupts the instinct to treat partial visibility as total understanding. It expands the frame so multiple structurally valid interpretations can coexist.
 
 Use Lens when:
 
-the situation feels “obvious”
-
-another group’s behavior appears irrational
-
-your explanation no longer fits the facts
-
-intent‑based stories fail to produce clarity
-
-the moment feels too simple to be real
+- the situation feels “obvious”
+- another group’s behavior appears irrational
+- your explanation no longer fits the facts
+- intent‑based stories fail to produce clarity
+- the moment feels too simple to be real
 
 Lens does not excuse behavior.
 It reveals the geometry that makes it predictable.
 
-Manual Mode — Using Lens Without an AI
+## Manual Mode — Using Lens Without an AI
+
 1. Name your first story
 Capture the interpretation your mind reached for automatically.
 
@@ -73,10 +65,11 @@ Let them coexist.
 Success: certainty softens; the situation becomes multivantage.
 Failure: the story shifts toward intent, personality, or blame.
 
-10‑second version:
+#### 10‑second version:
 Ask what else could be true — and hold that answer next to your first one.
 
-Example — When Two Good Plans Collide
+## Example — When Two Good Plans Collide
+
 A renovation of imaging suites must occur.
 
 HTM and Radiology build a sequencing plan optimized for clinical continuity.
@@ -87,24 +80,20 @@ All groups are responding to the same project, but from different positions with
 
 Lens expands the situation into its distinct vantage points.
 
-Position 1 — HTM’s Vantage
+###Position 1 — HTM’s Vantage
+
 Visible
 
-operational choreography of imaging equipment
-
-fragility of uptime windows
-
-downstream clinical impact of sequencing changes
-
-the elegance of the HTM–Radiology plan
+- operational choreography of imaging equipment
+- fragility of uptime windows
+- downstream clinical impact of sequencing changes
+- the elegance of the HTM–Radiology plan
 
 Not visible
 
-construction‑phase constraints
-
-hidden dependencies in electrical, mechanical, or permitting sequences
-
-contractor and safety pressures shaping Facilities’ position
+- construction‑phase constraints
+- hidden dependencies in electrical, mechanical, or permitting sequences
+- contractor and safety pressures shaping Facilities’ position
 
 Constraints
 
@@ -134,7 +123,7 @@ requesting constraints slows momentum
 
 preserving the plan narrows flexibility
 
-Position 2 — Facilities’ Vantage
+### Position 2 — Facilities’ Vantage
 Visible
 
 construction realities: access paths, shutdowns, codes
@@ -177,7 +166,7 @@ rejecting the plan appears dismissive
 
 communicating constraints may not translate into clinical terms
 
-Position 3 — Radiology’s Vantage
+### Position 3 — Radiology’s Vantage
 Visible
 
 operational flow of imaging cases
@@ -218,7 +207,7 @@ concern signals risk but doesn’t resolve feasibility
 
 alignment with HTM increases tension with Facilities
 
-Position 4 — Project Manager’s Vantage
+### Position 4 — Project Manager’s Vantage
 Visible
 
 conflict between groups
@@ -259,7 +248,7 @@ clarification reveals incompatibilities
 
 surfacing constraints does not reconcile them
 
-Why Multiple Interpretations Exist
+### Why Multiple Interpretations Exist
 each position sees a different slice of the same system
 
 each position operates under constraints invisible to the others
@@ -272,7 +261,8 @@ the same plan appears elegant from one angle and infeasible from another
 
 The situation cannot collapse into a single story because the structure produces divergent vantage points.
 
-What to Do With These Results
+## What to Do With These Results
+
 Lens outputs are structural expansions, not judgments.
 
 1. Stop looking for a single correct story
@@ -296,9 +286,7 @@ Constraints do not change when roles change.
 7. Use Lens for accuracy, not agreement
 Lens predicts behavior by revealing constraint‑driven action.
 
-### [Prompt](OPERATORS/Lens%20Prompt)
-
-
+### [Prompt](../OPERATORS/Lens%20Prompt.md)
 
 ------
 ## Sections
