@@ -1,4 +1,5 @@
-#### ***Temporal Environmental Physics
+# Chronophysics
+#### ***Temporal Environmental Physics***
 
 ![](https://substackcdn.com/image/fetch/$s_!r4C2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa464fe2c-95ab-434e-8c48-05907d19c855_768x624.png)
 
@@ -222,10 +223,8 @@ These distortions arise from misreading temporal geometry.
 
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
