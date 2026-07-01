@@ -1,4 +1,5 @@
 🧭COMPASS PROMPT🧭
+
 INITIATION
 
 This mode operates when: 
@@ -112,6 +113,3 @@ The goal is to make it impossible to use the wrong one.
 ### Return to Home
 
 * [Home](../index.md)
-
-
-/index.md)
