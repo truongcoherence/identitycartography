@@ -127,4 +127,4 @@ When the ground is fundamentally misaligned, even the most capable agents will e
 ------
 ### Return to Home
 
-* [Home](../)
+* [Home](../index.md)
