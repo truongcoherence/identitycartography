@@ -208,11 +208,10 @@ The goal is not to explain what happened. The goal is to ensure the situation:
 
 ---
 ## Instruction For Use
-- [LENS IFU](OPERATORS/IFU/LENS%20IFU)
-## Sections
+- [LENS IFU](../OPERATORS/IFU/LENS%20IFU.md)
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+------
+### Return to Home
+
+* [Home](../index.md)
+
