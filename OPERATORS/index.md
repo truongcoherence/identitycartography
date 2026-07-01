@@ -28,5 +28,5 @@ Many of the operators in this section are AI prompts you can copy and paste into
 - [SEISMOGRAPH](../OPERATORS/IFU/SEISMOGRAPH%20IFU.md)
 - [PROBE](../OPERATORS/IFU/PROBE%20IFU.md)
 - [COMPASS](../OPERATORS/IFU/COMPASS%20IFU.md)
-
+- [GENERAL INSTRUCTIONS]- [COMPASS](../OPERATORS/IFU/Tools%20as%20Operators.md)
 
