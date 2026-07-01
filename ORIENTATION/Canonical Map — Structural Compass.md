@@ -1,5 +1,6 @@
 # Canonical Map / Structural Compass
 ***Artifact Type: Architectural Map***
+
 ***Purpose: Define the structure, order, transitions, and validation anchors of the canon.***
 
 Identity Cartography is a four‑stratum identity‑physics system.  
