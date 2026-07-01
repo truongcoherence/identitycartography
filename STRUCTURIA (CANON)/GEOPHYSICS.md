@@ -1,4 +1,5 @@
-### ***Macro‑Scale Environmental Physics
+# Geophysics 
+### ***Macro‑Scale Environmental Physics***
 ![](https://substackcdn.com/image/fetch/$s_!GReC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f5f0121-0294-4787-9d61-bf7f2417bf3b_834x868.png)
 ---
 
@@ -215,10 +216,8 @@ Occurs because drag is distributed and not immediately felt.
 These distortions arise from misreading macro‑scale geometry.
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
+
