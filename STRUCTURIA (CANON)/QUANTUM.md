@@ -1,4 +1,4 @@
-### ***Micro‑Scale Possibility Physics
+### ***Micro‑Scale Possibility Physics***
 
 ![](https://substackcdn.com/image/fetch/$s_!5oBx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3b196be-9e7a-4b02-92fd-7e74a176d9ac_845x885.png)
 
@@ -215,10 +215,7 @@ Occurs because transition cost is invisible until activated.
 These distortions arise from misreading micro‑scale geometry.
 
 ------
-## Sections
+### Return to Home
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-* [Structuria (Canon)](STRUCTURIA%20%28CANON%29/index.md)
+* [Home](../index.md)
+
