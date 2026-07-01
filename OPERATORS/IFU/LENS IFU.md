@@ -286,7 +286,7 @@ Constraints do not change when roles change.
 7. Use Lens for accuracy, not agreement
 Lens predicts behavior by revealing constraint‑driven action.
 
-### [Prompt](../OPERATORS/Lens%20Prompt.md)
+### [Prompt](/OPERATORS/Lens%20Prompt.md)
 
 ------
 ### Return to Home
