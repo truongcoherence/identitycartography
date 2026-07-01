@@ -1,4 +1,4 @@
-# Boundaries 
+# BOUNDARIES 
 #### ***Second Identity Domain Physics***
 
 ![](https://substackcdn.com/image/fetch/$s_!z79b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57350c85-5ea8-4832-9142-96f5c98df033_1026x907.jpeg)
