@@ -158,7 +158,7 @@ Clock does not describe identity or psychology; it describes **temporal structur
 
 ## **8. Activation Condition & Emotional Response**
 
-###Activation Condition (Structural Trigger)
+### Activation Condition (Structural Trigger)
 
 Clock activates when time becomes the dominant force in the situation — when events accelerate, compress, or accumulate faster than identity can stabilize.
 
@@ -194,6 +194,7 @@ Emotions are signals, not definitions.
 
 They help people notice that:
 > ***Temporal acceleration has become the dominant force.***
+
 When events arrive faster than identity can stabilize coherence — even if the person mislabels the experience as anxiety, panic, or “being overwhelmed” — Clock is active.
 
 
