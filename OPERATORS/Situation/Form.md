@@ -148,6 +148,59 @@ It shows whether the situation is stable, deforming, fractured, or forming somet
 Form does not describe identity or psychology; it describes **structural geometry**.
 
 ---
+
+# **8. Activation Condition & Emotional Response**
+
+## **Activation Condition (Structural Trigger)**  
+Form activates when **the structural shape of the situation becomes the dominant force** — when the configuration of elements, pressures, and relationships determines what is possible more than time, position, or identity.
+
+From Morphophysics:
+
+> “Morphophysics governs identity‑form. It defines the environmental conditions under which identity structures emerge, stabilize, deform, collapse, or reorganize.”
+
+Form becomes active the moment the situation begins to:
+
+- **deform** (shape changing under load)  
+- **destabilize** (coherence degrading)  
+- **collapse** (structure failing under pressure)  
+- **reorganize** (new shape forming)  
+- **lock‑in** (shape persisting despite misalignment)  
+
+This is a **structural condition**, not an emotional one.
+
+---
+
+## **Common Emotional Response (Human Signal)**  
+When Form activates, people often *feel*:
+
+- instability  
+- uncertainty about what is “taking shape”  
+- “things are changing too much”  
+- “this doesn’t look like what it used to”  
+- fear of collapse  
+- discomfort with reorganization  
+- “I don’t know what this is becoming”  
+
+These feelings are **not** the operator.  
+They are **signals** that the operator has activated.
+
+Humans often experience emotional unease when structural shape changes.  
+Form explains the **structure** behind that unease.
+
+---
+
+## **Clarification (Structure vs Emotion)**  
+Form describes **the environmental behavior of structural shape**, not emotional instability.
+
+Emotions are **signals**, not definitions.
+
+They help people notice that:
+
+> **Structural configuration has become the dominant force.**
+
+When the situation’s shape is deforming, collapsing, or reorganizing — even if the person mislabels the experience as anxiety, dread, or “everything falling apart” — Form is active.
+
+---
 ### Return to Home
 
 * [Home](../index.md)
