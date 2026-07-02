@@ -66,7 +66,7 @@ They help you understand:
 These will live here:
 - [Clock](../OPERATORS/Situation/Clock.md)
 - [Locator](../OPERATORS/Situation/Locator.md)
-- [Form](OPERATORS/Situation/Form.md)
+- [Form](../OPERATORS/Situation/Form.md)
 
 ***These operators give you structural context, not instructions.***
 
