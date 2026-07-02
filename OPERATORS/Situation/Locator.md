@@ -145,6 +145,53 @@ Below is the **public‑facing Locator Operator page**, written in the same stru
 This is ready to drop directly into your **Structuria Public Vault → OPERATORS → Situation → Locator.md**.
 
 ------
+
+## **8. Activation Condition & Emotional Response**
+
+### Activation Condition (Structural Trigger)
+
+Locator activates when positional geometry becomes the dominant force in the situation — when the environment’s shape, bias, or constraint distribution determines what is possible.
+
+From Topophysics:
+
+> "Topophysics governs contextual geometry — the positional asymmetries that shape possibility.”
+
+Locator becomes active the moment the situation is:
+- tilted (movement easier in one direction)
+- pinned (held in place by constraint)
+- stuck (unable to move without cost)
+- floating (not anchored; unpredictable)
+- cross‑current (environment pushing against intended direction)
+
+This is a structural condition, not an emotional one.
+
+###Common Emotional Response (Human Signal)
+When Locator activates, people often feel:
+- stuck
+- trapped
+- pulled somewhere they didn’t choose
+- "I can’t get out of this spot”
+- "Everything is pushing me this way”
+- "I’m being held in place”
+
+These feelings are not the operator.
+
+They are signals that the operator has activated.
+
+Humans often experience emotional friction when positional constraint becomes visible.
+
+Locator explains the structure behind that friction.
+
+### Clarification (Structure vs Emotion)
+Locator describes environmental position, not psychological stuckness.
+Emotions are signals, not definitions.
+
+They help people notice that:
+***Positional asymmetry has become the dominant force.***
+When the environment’s geometry shapes movement — even if the person mislabels the experience as frustration, helplessness, or “being trapped” — Locator is active.
+
+----
+
 ### Return to Home
 
 * [Home](../index.md)
