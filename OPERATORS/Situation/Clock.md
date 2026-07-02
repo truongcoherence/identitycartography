@@ -154,3 +154,9 @@ Clock reveals **how time behaves** in a situation — its acceleration, drag, ac
 It shows whether the situation is moving too fast, too slow, or collapsing under duration.  
 Clock does not describe identity or psychology; it describes **temporal structure**.
 
+----
+### Return to Home
+
+* [Home](../index.md)
+
+
