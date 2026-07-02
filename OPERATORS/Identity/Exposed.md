@@ -138,13 +138,55 @@ These distortions arise from misreading **identity‑under‑contact behavior**,
 
 ---
 
-## **7. Public Summary (Reader‑Safe)**
+## **7. Summary**
 
 Exposed reveals **how identity behaves when insulation collapses and consequence becomes real** — how it stabilizes, fractures, or reveals structural truth under contact.  
 It shows whether identity is bare, partial, delayed, compounded, fractured, or steady.  
 Exposed does not describe emotion or psychology; it describes **identity‑under‑exposure behavior**.
 
 ------
+
+## **8. Activation Condition & Emotional Response**
+
+### Activation Condition (Structural Trigger)
+
+Exposed activates when insulation collapses and identity comes into direct contact with consequence — when the outcome can no longer be deferred, avoided, or buffered.
+
+From Peril Physics:
+> "Peril governs identity under exposure to consequence. It describes the physics of what happens when insulation collapses and identity is in direct contact with forces it cannot fully control.”
+
+Exposed becomes active the moment irreversibility enters the situation — when the next action or event will produce real, unavoidable consequence.
+
+This is a structural condition, not an emotional one.
+
+### Common Emotional Response (Human Signal)
+
+When Exposed activates, people often feel:
+- vulnerable
+- afraid or tense
+- intensely alert
+- "This is real now.”
+- "I can’t undo this.”
+- "Whatever happens next actually matters.”
+
+These feelings are not the operator.
+
+They are signals that the operator has activated.
+
+Humans often experience emotional intensity when consequence becomes real.
+
+Exposed explains the structure behind that intensity.
+
+### Clarification (Structure vs Emotion)
+Exposed describes identity’s behavior under direct consequence, not emotional vulnerability.
+Emotions are signals, not definitions.
+
+They help people notice that:
+***Consequence has become the dominant force.***
+When insulation collapses and identity is touched directly by outcome — even if the person mislabels the experience as panic, fear, or “being overwhelmed” — Exposed is active.
+
+-----
+
 ### Return to Home
 
 * [Home](../index.md)
