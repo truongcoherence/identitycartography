@@ -42,7 +42,7 @@ Topophysics defines:
 - **structural gradients** — movement is easier in some directions  
 - **contextual geometry** — shape of the environment determines possibility  
 
-From your Topophysics canon:
+From the Topophysics canon:
 
 > “Topophysics governs contextual geometry… the positional asymmetries that shape possibility.”  
 
