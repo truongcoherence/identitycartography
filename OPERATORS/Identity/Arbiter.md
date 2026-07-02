@@ -42,7 +42,7 @@ Judgment defines:
 - **identity’s earliest contact with consequence**  
 - **the stabilization of vantage**  
 
-From your Judgment canon:
+From the Judgment canon:
 
 > “Judgment governs the earliest stage of identity‑driven action: interpretation under uncertainty and personal consequence.”  
 
