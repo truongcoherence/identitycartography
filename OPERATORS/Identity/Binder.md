@@ -1,4 +1,4 @@
-**BINDER**
+# **BINDER**
 
 Binder is the **Identity Operator** that reveals how identity behaves once it becomes a **multi‑part structure carrying shared load**.  
 -It does **not** describe personality.  
