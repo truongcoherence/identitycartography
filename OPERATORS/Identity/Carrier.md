@@ -141,6 +141,47 @@ It shows whether identity is stable, overloaded, distributed, deferred, fracture
 Carrier does not describe personality or psychology; it describes **long‑duration behavior under obligation**.
 
 ------
+## **8. Activation Condition & Emotional Response**
+
+###Activation Condition (Structural Trigger)
+
+Carrier activates when identity must carry commitments, obligations, or structures forward through time — when continuity depends on sustained effort across changing conditions.
+
+From Stewardship Physics:
+> "Stewardship governs the maintenance of identity across time. It describes how identity preserves integrity while carrying commitments forward through changing conditions.”
+
+Carrier becomes active the moment duration becomes the dominant force — when identity must keep going, keep holding, or keep sustaining something that does not end quickly.
+
+This is a structural condition, not an emotional one.
+
+### Common Emotional Response (Human Signal)
+
+When Carrier activates, people often feel:
+- tired or worn down
+- burdened by responsibility
+- committed but strained
+- "I have to keep carrying this”
+- "I can’t stop yet”
+- "This is going to take a long time”
+
+These feelings are not the operator.
+
+They are signals that the operator has activated.
+
+Humans often experience emotional fatigue when long‑duration commitments accumulate.
+
+Carrier explains the structure behind that fatigue.
+
+### Clarification (Structure vs Emotion)
+
+Carrier describes identity’s long‑duration maintenance behavior, not emotional exhaustion.
+Emotions are signals, not definitions.
+
+They help people notice that:
+***Duration has become the dominant force.***
+When identity must preserve integrity across time — despite fatigue, changing conditions, or accumulating obligation — Carrier is active, even if the person mislabels the experience as burnout, stress, or “being stuck with something forever.”
+
+-----
 ### Return to Home
 
 * [Home](../index.md)
