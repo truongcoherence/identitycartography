@@ -43,7 +43,7 @@ Boundaries define:
 - **exclusion of destabilizing forces**  
 - **continuity under pressure**  
 
-From your Boundaries canon:
+From the Boundaries canon:
 
 > “Boundaries govern the structural limits that protect identity after a future has been selected.”  
 
