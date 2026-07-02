@@ -153,7 +153,8 @@ From Boundaries Physics:
 Gate becomes active the moment incoming load threatens coherence, or when identity must regulate what enters, what remains, and what must be excluded.
 This is a structural condition, not an emotional one.
 
-###Common Emotional Response (Human Signal)
+### Common Emotional Response (Human Signal)
+
 When Gate activates, people often feel:
 - guarded
 - cautious
