@@ -47,7 +47,7 @@ Morphophysics defines:
 - **reorganization** — how forms change shape after collapse  
 - **stability** — how forms maintain coherence  
 
-From your Morphophysics canon:
+From the Morphophysics canon:
 
 > “Morphophysics governs identity‑form. It defines the environmental conditions under which identity structures emerge, stabilize, deform, collapse, or reorganize.”  
 
