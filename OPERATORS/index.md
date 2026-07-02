@@ -23,7 +23,7 @@ You will find them here:
 * [LENS](../OPERATORS/Lens%20Prompt.md)
 * [INTERPRETER](../OPERATORS/Interpreter%20Prompt.md)
 * [RELIEF](../OPERATORS/Relief%20Prompt.md)
-* [SEISMOGRAPH](../OPERATORS/ Seismograph%20Prompt.md)
+* [SEISMOGRAPH](../OPERATORS/Seismograph%20Prompt.md)
 * [PROBE](../OPERATORS/PROBE%20Prompt.md)
 
 Each Core Operator has:
