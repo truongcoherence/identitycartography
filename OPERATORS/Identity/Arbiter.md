@@ -140,6 +140,40 @@ It shows whether identity is anchored, floating, split, collapsed, guarded, or e
 Arbiter does not describe personality or psychology; it describes **interpretive behavior under uncertainty**.
 
 ------
+## **8. Activation Condition & Emotional Response**
+
+### Activation Condition (Structural Trigger)
+
+Arbiter activates when identity must interpret a situation under uncertainty — when signals are incomplete, outcomes are unknown, and coherence must be stabilized before commitment.
+
+From Judgment Physics:
+“Judgment governs interpretation under uncertainty and personal consequence.”
+Arbiter becomes active the moment meaning is unstable and identity must decide what the situation is before deciding what to do.
+This is a structural condition, not a psychological one.
+
+### Common Emotional Response (Human Signal)
+When Arbiter activates, people often feel:
+- confusion
+- hesitation
+- doubt
+- "I don’t know what this means”
+- "I’m not sure what’s happening”
+- "I need more information”
+
+These feelings are not the operator.
+They are signals that the operator has activated.
+Humans often experience emotional discomfort when meaning is unclear.
+Arbiter explains the structure behind that discomfort.
+
+### Clarification (Structure vs Emotion)
+Arbiter describes identity’s interpretive stance, not emotional confusion.
+Emotions are signals, not definitions.
+
+They help people notice that:
+***Interpretation has become the dominant force.***
+When meaning is unclear, Arbiter is active — even if the person mislabels the experience as anxiety, indecision, or “overthinking.”
+
+------
 ### Return to Home
 
 * [Home](../index.md)
