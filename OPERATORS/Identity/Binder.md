@@ -141,6 +141,48 @@ It shows whether identity is aligned, distributed, overloaded, fractured, rigid,
 Binder does not describe personality or psychology; it describes **internal cohesion under shared load**.
 
 ------
+
+## **8. Activation Condition & Emotional Response**
+
+### Activation Condition (Structural Trigger)
+
+Binder activates when identity must coordinate multiple internal components under shared load — when obligations, roles, or commitments require internal cooperation to maintain continuity.
+
+From Cohesion Physics:
+> "Cohesion governs the internal stability of identity once it becomes a multi‑part structure carrying shared load.”
+
+Binder becomes active the moment load must be distributed across internal parts, or when internal fracture becomes possible.
+
+This is a structural condition, not an emotional one.
+
+### Common Emotional Response (Human Signal)
+
+When Binder activates, people often feel:
+pulled in multiple directions
+- strained or stretched
+- responsible for “holding things together”
+- pressured to keep all parts functioning
+- "If I drop one thing, everything will fall apart”
+- "I’m carrying too much at once”
+
+These feelings are not the operator.
+
+They are signals that the operator has activated.
+
+Humans often experience emotional tension when internal coordination is required.
+
+Binder explains the structure behind that tension.
+
+### Clarification (Structure vs Emotion)
+Binder describes identity’s internal cohesion behavior, not emotional overwhelm.
+Emotions are signals, not definitions.
+
+They help people notice that:
+***Internal coordination has become the dominant force.***
+When identity must distribute load across multiple internal components to preserve continuity, Binder is active — even if the person mislabels the experience as stress, burnout, or “being stretched too thin.”
+
+----
+
 ### Return to Home
 
 * [Home](../index.md)
