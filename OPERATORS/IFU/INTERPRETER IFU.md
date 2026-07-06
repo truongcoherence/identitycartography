@@ -2,7 +2,7 @@
 
 ### Extracting Meaning Beneath the Moment
 
-![](https://substackcdn.com/image/fetch/$s_!8Usu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32daf14b-a351-4397-92ff-d9e99ab8909d_1024x1024.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/OPERATORS/Interpreter.png)
 
 ---
 

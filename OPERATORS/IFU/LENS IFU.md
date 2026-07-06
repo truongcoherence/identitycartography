@@ -1,7 +1,7 @@
 # LENS
 ### ***Expanding the Frame of Interpretation***
 
-![](https://substackcdn.com/image/fetch/$s_!sVev!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F472a31ed-1191-4fb4-b79f-39d9209006e9_897x891.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/OPERATORS/Lens.png)
 ## Purpose
 Lens is a structural tool for widening the frame of interpretation. It reveals multiple structurally plausible vantage points within a single situation so the moment cannot collapse into a single, incomplete story.
 

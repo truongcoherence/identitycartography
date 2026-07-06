@@ -3,7 +3,7 @@
 ### Returning to Your True Size
 
 
-![](https://substackcdn.com/image/fetch/$s_!5jNl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3468f115-0e79-4434-a737-d85cf902f00a_1024x1024.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/OPERATORS/Relief.png)
 
 ---
 ## Purpose

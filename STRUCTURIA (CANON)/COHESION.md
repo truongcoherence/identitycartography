@@ -1,7 +1,7 @@
 # COHESION
 ### ***Third Identity Domain Physics***
 
-![](https://substackcdn.com/image/fetch/$s_!xCtH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42a7b288-d348-498e-a261-c8e914c7104a_948x917.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/PHYSICS/Cohesion.png)
 
 ---
 

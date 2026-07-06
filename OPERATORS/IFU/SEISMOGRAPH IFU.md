@@ -2,7 +2,7 @@
 
 ### Detecting Structural Pressure Beneath the Moment
 
-![](https://substackcdn.com/image/fetch/$s_!JVfO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03a8f3a2-d6e7-4af5-9895-e5e0e3adfee1_952x1018.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/OPERATORS/Seismography.png)
 
 ## Purpose
 

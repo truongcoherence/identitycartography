@@ -1,7 +1,7 @@
 # STEWARDSHIP
 ### ***Fourth Identity Domain Physics***
 
-![](https://substackcdn.com/image/fetch/$s_!nd2L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0af60a36-d5de-4ed2-a5aa-4fbdc8052bbe_939x919.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/PHYSICS/Stewardship.png)
 
 ---
 

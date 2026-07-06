@@ -1,8 +1,9 @@
 # COMPASS
 ### Recognizing the Situation You Are Actually In
 
-![](https://substackcdn.com/image/fetch/$s_!ArRx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F165f6b6e-53c1-41f0-a82f-9b5301a59fcb_1024x1024.png)
 
+
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/OPERATORS/Orientation.png)
 ## **Purpose**
 
 Compass is used when:

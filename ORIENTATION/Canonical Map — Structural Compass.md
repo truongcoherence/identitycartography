@@ -14,7 +14,7 @@ Movement between strata is unidirectional.
 No stratum substitutes for another.
 
 The Canon is a closed system.
-![](https://substackcdn.com/image/fetch/$s_!dw79!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0bbb5b-f4f3-45d9-ad54-ce14f353cb0a_621x921.png)
+![558](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/ORIENTATION/ConceptualMapv3.png)
 
 ## I. Epistemic Primitives
 

@@ -2,7 +2,7 @@
 
 ### Testing What the System Can Actually Support
 
-![](https://substackcdn.com/image/fetch/$s_!AYsO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65eed9e1-e220-46cc-9037-e0677670c843_697x864.jpeg)
+![410](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/OPERATORS/Probe.jpg)
 
 ## Purpose
 

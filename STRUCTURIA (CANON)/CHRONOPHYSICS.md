@@ -1,7 +1,7 @@
 # Chronophysics
 #### ***Temporal Environmental Physics***
 
-![](https://substackcdn.com/image/fetch/$s_!r4C2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa464fe2c-95ab-434e-8c48-05907d19c855_768x624.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/PHYSICS/Chronophysics.png)
 
 # Preamble
 

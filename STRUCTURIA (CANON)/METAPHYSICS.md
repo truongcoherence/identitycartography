@@ -1,7 +1,7 @@
 # METAPHYSICS
 ### ***The Conditions of Identity, Environment, and Possibility***
 
-![](https://substackcdn.com/image/fetch/$s_!zbAC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc134f4a3-7b8c-4d17-b64d-2a0de34dca06_1019x943.png)
+![](https://raw.githubusercontent.com/truongcoherence/identitycartography-structuria/refs/heads/main/PHYSICS/Metaphysics.png)
 
 # Preamble
 
