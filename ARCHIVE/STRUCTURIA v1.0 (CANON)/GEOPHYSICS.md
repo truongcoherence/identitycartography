@@ -217,6 +217,6 @@ These distortions arise from misreading macro‑scale geometry.
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 
 

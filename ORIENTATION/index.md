@@ -1,6 +1,6 @@
 # Orientation
 
-This page has everything you need to understand what Identity Cartography is and how the maps it produces are meant to be used.
+The Orientation section is the mandatory entry point for all new participants, collaborators, and auditors. Because Structuria is a discipline built on non-standard cognitive foundations—prioritizing structural mechanics over narrative or social intuition—this document provides the necessary baseline to understand the framework's internal logic, terminology, and operational boundaries.
 
 ----
 ### Return to Home
@@ -9,11 +9,8 @@ This page has everything you need to understand what Identity Cartography is and
 
 ------
 ### Resources:
-- [About Page](../ORIENTATION/About%20Page.md)
-- [Attributions](../ORIENTATION/Attribution%20&%20Permissions.md)
-- [Boundary Conditions](../ORIENTATION/Boundary%20Conditions%20&%20Falsifiability.md)
-- [Canonical Map](../ORIENTATION/Canonical%20Map%20—%20Structural%20Compass.md)
 - [Legend](../ORIENTATION/Legend.md)
+- [About Page](../ORIENTATION/About%20Page.md)
 
 
 

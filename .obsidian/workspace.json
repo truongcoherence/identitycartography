@@ -8,35 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efd1be272d6e71a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OPERATORS/IFU/COMPASS IFU.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COMPASS IFU"
-            }
-          },
-          {
             "id": "71105b4adb358772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STRUCTURIA (CANON)/TOPOPHYSICS.md",
+                "file": "ARCHIVE/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOPOPHYSICS"
+              "title": "index"
+            }
+          },
+          {
+            "id": "f4a9c0d0c2f41159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STRUCTURIA (CANON) 2.0/Cohesion (2.0).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cohesion (2.0)"
+            }
+          },
+          {
+            "id": "e54670b38a144552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STRUCTURIA (CANON) 2.0/Judgment (2.0).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Judgment (2.0)"
+            }
+          },
+          {
+            "id": "b2eb5a0020f2c71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STRUCTURIA (CANON) 2.0/Boundaries (2.0).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boundaries (2.0)"
+            }
+          },
+          {
+            "id": "ae9cfbd4b541a514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGE_LOG/2026-07-09 Canon Audit/Structuria Canon Audit — Working Record (2026-07-11).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structuria Canon Audit — Working Record (2026-07-11)"
+            }
+          },
+          {
+            "id": "bb4c414329493a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGE_LOG/2026-07-09 Canon Audit/Structuria Canon Audit — Working Record (2026-07-11).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structuria Canon Audit — Working Record (2026-07-11)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,36 +254,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "71105b4adb358772",
+  "active": "ae9cfbd4b541a514",
   "lastOpenFiles": [
-    "STRUCTURIA (CANON)/STEWARDSHIP.md",
-    "STRUCTURIA (CANON)/QUANTUM.md",
-    "STRUCTURIA (CANON)/PERIL.md",
-    "STRUCTURIA (CANON)/MORPHOPHYSICS.md",
-    "STRUCTURIA (CANON)/METAPHYSICS.md",
-    "STRUCTURIA (CANON)/JUDGMENT.md",
-    "Cartographers Stamp - Copy.png",
-    "STRUCTURIA (CANON)/GEOPHYSICS.md",
-    "STRUCTURIA (CANON)/COHESION.md",
-    "STRUCTURIA (CANON)/CHRONOPHYSICS.md",
-    "STRUCTURIA (CANON)/BOUNDARIES.md",
-    "ORIENTATION/Canonical Map — Structural Compass.md",
-    "OPERATORS/Compass Prompt.md",
-    "OPERATORS/IFU/SEISMOGRAPH IFU.md",
-    "OPERATORS/IFU/RELIEF IFU.md",
-    "OPERATORS/IFU/PROBE IFU.md",
-    "OPERATORS/IFU/LENS IFU.md",
-    "OPERATORS/IFU/INTERPRETER IFU.md",
-    "OPERATORS/IFU/COMPASS IFU.md",
-    "Pasted image 20260705230009.png",
+    "CHANGE_LOG/index.md",
+    "CHANGE_LOG/2026-07-09 Canon Audit/Structuria Canon Audit — Working Record (2026-07-11).md",
+    "README.md",
     "OPERATORS/index.md",
+    "ORIENTATION/index.md",
+    "STRUCTURIA_ACTIVE_CANON/index.md",
+    "ARCHIVE/STRUCTURIA v1.0 (CANON)/index.md",
+    "ARCHIVE/index.md",
+    "APPLICATIONS/index.md",
+    "FIELD NOTES/index.md",
+    "ORIENTATION/About Page.md",
+    "FIELD NOTES/Articles-to-Github.md",
+    "ORIENTATION/Legend.md",
     "LICENSE.md",
     "index.md",
-    "STRUCTURIA (CANON)/index.md",
-    "FIELD NOTES/index.md",
-    "README.md",
-    "Fit × Heart - Why Some Interview Answers Land and Others Don’t.md",
-    "APPLICATIONS/index.md",
+    "CHANGE_LOG/2026-07-09 Canon Audit",
+    "ARCHIVE/STRUCTURIA v1.0 (CANON)/Architecture of Signal → Outcome.md",
+    "ARCHIVE/STRUCTURIA v1.0 (CANON)/Nature of Primitives.md",
+    "ARCHIVE/STRUCTURIA v1.0 (CANON)/Nature of Invariants.md",
+    "ARCHIVE/STRUCTURIA v1.0 (CANON)/Nature of Distortions.md",
+    "Structuria Meta-Constraint Layer — Working Document.md",
+    "STRUCTURIA_ACTIVE_CANON",
+    "CHANGE_LOG",
+    "STRUCTURIA (CANON) 2.0/Stewardship (2.0).md",
+    "Stewardship (2.0).md",
+    "STRUCTURIA (CANON) 2.0/Boundaries (2.0).md",
+    "STRUCTURIA (CANON) 2.0/Cohesion (2.0).md",
+    "OPERATORS/IFU/COMPASS IFU.md",
+    "STRUCTURIA (CANON) 2.0/Judgment (2.0).md",
+    "STRUCTURIA (CANON) 2.0",
+    "ARCHIVE",
+    "Cartographers Stamp - Copy.png",
+    "Pasted image 20260705230009.png",
     "OPERATOR/IFU",
     "OPERATOR",
     "Untitled 1",

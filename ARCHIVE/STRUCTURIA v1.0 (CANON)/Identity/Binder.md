@@ -185,4 +185,4 @@ When identity must distribute load across multiple internal components to preser
 
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)

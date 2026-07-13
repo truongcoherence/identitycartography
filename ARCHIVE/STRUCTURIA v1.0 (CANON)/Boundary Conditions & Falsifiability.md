@@ -105,5 +105,5 @@ Identity Cartography is a coherent identityâ€‘physics system with explicit nonâ€
 -----
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 

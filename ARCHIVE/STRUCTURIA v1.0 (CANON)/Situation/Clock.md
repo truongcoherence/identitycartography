@@ -200,6 +200,6 @@ When events arrive faster than identity can stabilize coherence — even if the 
 
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)
 
 

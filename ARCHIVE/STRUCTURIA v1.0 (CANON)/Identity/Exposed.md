@@ -189,4 +189,4 @@ When insulation collapses and identity is touched directly by outcome — even i
 
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)

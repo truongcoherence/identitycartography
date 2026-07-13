@@ -261,6 +261,6 @@ These distortions arise from misreading metaphysical geometry.
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 
 

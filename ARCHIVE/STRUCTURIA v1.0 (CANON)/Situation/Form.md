@@ -203,4 +203,4 @@ When the situation’s shape is deforming, collapsing, or reorganizing — even 
 ---
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)

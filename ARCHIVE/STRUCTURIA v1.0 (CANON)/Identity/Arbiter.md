@@ -178,4 +178,4 @@ When meaning is unclear, Arbiter is active — even if the person mislabels the 
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)

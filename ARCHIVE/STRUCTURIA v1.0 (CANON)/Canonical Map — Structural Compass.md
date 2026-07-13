@@ -205,4 +205,4 @@ The Canonical Map defines a four‑stratum identity‑physics system with fixed 
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)

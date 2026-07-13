@@ -223,6 +223,6 @@ These distortions arise from misreading contextual geometry.
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 
 

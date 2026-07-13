@@ -184,6 +184,6 @@ When identity must preserve integrity across time — despite fatigue, changing 
 -----
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)
 
 

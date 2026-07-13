@@ -255,6 +255,6 @@ It is revelation.
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 
 

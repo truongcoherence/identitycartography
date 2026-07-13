@@ -180,4 +180,4 @@ When identity must regulate access to preserve coherence, Gate is active — eve
 
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)

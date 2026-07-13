@@ -403,6 +403,6 @@ This is the structural handoff.
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 
 

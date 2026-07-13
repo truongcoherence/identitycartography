@@ -1,84 +1,36 @@
-# Welcome to Identity Cartography
+### Identity Cartography
 
-### ***A map of the interior world built from pressure, structure, and movement***
+**An anchor point for navigating terrain where intent is not enough.**
 
+Identity Cartography is a system of structural mapping that treats human environments as physical landscapes defined by pressure, boundary, and movement. While it behaves like a physics, its origins are purely pragmatic. It provides an anchor point for navigating environments where standard models—those based on motivation, personality, or values—fail to resolve the frictions of unyielding, highly structured systems.
 
-Every person moves through an interior world shaped by forces they cannot always name.
+This project serves as a repository for mapping the architecture of such systems. It does not focus on internal motives; it focuses on the structural terrain: the load paths, fault lines, and physical constraints of the environment. By focusing on these structures rather than the operators within them, Identity Cartography provides the leverage necessary to restore agency when options are constrained.
 
-Identity Cartography is the discipline that makes those forces visible.
+The depth of this work is sustained by a persistent requirement for rigor: identifying, testing, and reconstructing the structural fragments that define the map. As the system undergoes continuous refinement to maintain its mechanical integrity, a record of structural evolution and recent technical updates can be found in the **Change Log**.
 
-It treats the self as a landscape with structure — ridgelines, fault lines, load paths, and hidden terrain.
+**Clarity is the ethic. Precision is the stance.**
 
-Not metaphorically.
+### Contents
 
-Mechanically.
+- **Structuria (The Canon):** The core framework of structural constraint.
+- **Applications:** Interfaces between the framework and external systems, including professional environments, systemic collapse, and reconstruction.
+- **Field Notes:** Observations from the edges of the system, including technical case studies and experiments.
+- **Operators:** Tools designed to reveal structural terrain.
+- **Orientations:** Resources for reading the larger map.
+- **Archive**: Storage for ideas that have become outmoded. 
+- **Change Log**: Record of active changes and their reasons.
 
-This publication is where that discipline lives.
+### Usage
 
-Its founding canon, **Structuria**, is the mapmaker’s first rendering of the internal world:
+Start with the **Legend**. It provides the necessary grammar—the shapes, forces, and boundaries—to read the canon. The **Index** provides the full scope of the map. As the system is modular, any entry point is valid for analyzing specific systemic frictions.
 
-**a physics of identity built from pressure, constraint, and movement.**
+### Objectives
 
-Identity Cartography is austere by design.
+Systems often navigate their environment by inference—guessing at rules and reacting to conditions. Identity Cartography offers a systematic alternative. It is not psychology or self-help; it is the engineering of the interior world, functioning as a practical tool for mapping.
 
-It removes narrative, persuasion, and emotional scaffolding so the reader can see the structure without interference.
+This framework does not define the system; it identifies the terrain the system is already traversing.
 
-Clarity is the ethic.
-
-Precision is the stance.
-
-## What Lives Here
-
-### Structuria (The Canon)
-The core physics of identity.
-
-### Applications
-
-Where the physics touch real life: transitions, relationships, work, collapse, reconstruction, and identity under pressure.
-
-### Field Notes
-
-Observations from the edges of the system — experiments, case studies, and live reasoning.
-
-### Operators
-
-Tools that reveal that reveal the terrain
-
-### Orientations
-
-Resources for helping you understand the larger map.
-
-## **How to Begin**
-
-Start with the **Legend**.
-
-It gives you the grammar of the discipline — the shapes, the forces, the boundaries.
-
-Then move to the **Index**, the map of the entire canon.
-
-From there, follow whatever draws your attention.
-
-Identity Cartography is modular; every entry point is valid.
-
-## **Why This Exists**
-
-Most people navigate identity by inference — guessing at the rules, absorbing the expectations, hoping their internal compass is calibrated.
-
-Identity Cartography offers something different:
-
-a way to see the structure beneath experience, so movement becomes intentional instead of reactive.
-
-This is not psychology.
-
-This is not self‑help.
-
-This is the engineering of the interior world.
-
-The map does not tell you who to be.
-
-It shows you the terrain you are already walking.
-
-The path is yours.
+**The path is yours.**
 
 ----
 ## Sections
@@ -87,4 +39,5 @@ The path is yours.
 - [Field Notes](FIELD%20NOTES/index.md)
 - [Operators](OPERATORS/index.md)
 - [Orientation](ORIENTATION/index.md)
-- [Structuria (Canon)](STRUCTURIA%20(CANON)/index.md)
+- [Structuria (Canon)](STRUCTURIA_ACTIVE_CANON/index.md)
+- [Change Log](CHANGE_LOG/index.md)

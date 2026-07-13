@@ -224,6 +224,6 @@ These distortions arise from misreading morphic geometry.
 ------
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 
 

@@ -194,4 +194,4 @@ When the environment’s geometry shapes movement — even if the person mislabe
 
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](OPERATORS/index.md)
