@@ -13,7 +13,7 @@ be in this system.
 ### Layers
 
 #### Identity Domain Physics
-1. [Judgment](JUDGMENT.md)
+1. [Judgment](ARCHIVE/STRUCTURIA%20v1.0%20(CANON)/JUDGMENT.md)
 2. [Boundaries](BOUNDARIES.md)
 3. [Cohesion](COHESION.md)
 4. [Stewardship](STEWARDSHIP.md)

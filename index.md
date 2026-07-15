@@ -19,6 +19,7 @@ The depth of this work is sustained by a persistent requirement for rigor: ident
 - **Orientations:** Resources for reading the larger map.
 - **Archive**: Storage for ideas that have become outmoded. 
 - **Change Log**: Record of active changes and their reasons.
+- **Laboratory**: Descriptions of research methodologies related to theory crafting and application candidates. 
 
 ### Usage
 
@@ -30,13 +31,15 @@ Systems often navigate their environment by inference—guessing at rules and re
 
 This framework does not define the system; it identifies the terrain the system is already traversing.
 
-**The path is yours.**
+#### **The path is yours.**
+
 ----
 ## Sections
 
-* [Applications](APPLICATIONS/index.md)
-* [Field Notes](FIELD%20NOTES/index.md)
-* [Operators](OPERATORS/index.md)
-* [Orientation](ORIENTATION/index.md)
-
-
+- [Applications](APPLICATIONS/index.md)
+- [Field Notes](FIELD%20NOTES/index.md)
+- [Operators](OPERATORS/index.md)
+- [Orientation](ORIENTATION/index.md)
+- [Structuria (Canon)](STRUCTURIA_ACTIVE_CANON/index.md)
+- [Change Log](CHANGE_LOG/index.md)
+- [Laboratory](CHANGE_LOG/index.md)
