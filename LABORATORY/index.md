@@ -6,6 +6,11 @@ The objective of this space is transparency. It provides a structured view of th
 
 **NOTE:** As of 7/12/2026; the Identity Domain Physics are being validated. Please see [Canon Audit 2026-07-09](obsidian://open?vault=identity-cartography&file=CHANGE_LOG%2F2026-07-09%20Canon%20Audit%2FStructuria%20Canon%20Audit%20%E2%80%94%20Working%20Record%20(2026-07-11))
 
+**Access the Research Backbone** To review the formal methodology, audit the structural axioms, or submit a contribution to the registry, please visit the repository here:
+
+**[Identity Cartography: Formal Research & Methodology (OSF)](https://osf.io/7wek6)**
+
+
 ----
 ### Return to Home
 
