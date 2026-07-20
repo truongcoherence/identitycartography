@@ -194,7 +194,7 @@ Stop when:
 - no new constraints are emerging 
 - the decision (if present) is supported 
 
-Do not extend beyond structural completion. 
+Do not extend beyond structural completion. The boundary belongs to this instrument, not to the situation. Stopping here reflects Interpreter's scope, not the limit of what can be known.
 
 If continuation occurs: 
 - do not introduce new paths 

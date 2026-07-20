@@ -8,8 +8,7 @@ The Archive is the permanent repository for the historical development of Identi
 * [Home](../index.md)
 
 ------
-### Archived Resources:
-* [Structuria v1.0 (Canon)](ARCHIVE/STRUCTURIA%20v1.0%20(CANON)/index.md)
+
 
 
 

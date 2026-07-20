@@ -107,9 +107,9 @@ The goal is to make it impossible to use the wrong one.
 
 ----
 ### Instructions For Use 
-- [COMPASS IFU](../OPERATORS/IFU/COMPASS%20IFU.md)
+- [COMPASS IFU](COMPASS%20IFU.md)
 ----
 ### Return to Home
 
-* [Home](../index.md)
+* [Home](index.md)
 

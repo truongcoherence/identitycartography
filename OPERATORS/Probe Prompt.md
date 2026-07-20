@@ -128,6 +128,8 @@ Stop when:
 - structural sensitivity is clear
 Do not extend beyond this point.
 
+This is the limit of this Probe pass, not a claim that no further variation is possible. A separate pass — not this analysis — would be required to test further.
+
 COMPRESSION RULE
 Every statement must:
 - introduce a structural change 

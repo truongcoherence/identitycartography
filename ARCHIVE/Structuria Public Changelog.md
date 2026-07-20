@@ -1,10 +1,12 @@
-# Structuria Public Changelog
+
+## NOTE: This Document Is Being Retired Because Github already acts as a public ledger of changes. 
+### Structuria Public Changelog
 
 **Purpose:** A running, dated record of what's actually visible to a reader on GitHub or OSF at any given point — retractions and additions given equal weight, so this log doesn't show only growth. This is the public-facing companion to an internal working log; entries here only appear once the corresponding material is actually published, not when it's drafted.
 
 ---
 
-## 2026-07-12
+### 2026-07-12
 
 **Retracted:**
 - *Formalized Methodology* (OSF component) — retracted for relying on a single, unverified AI-processing step with no independent check. Full reasoning in the attached retraction notice.

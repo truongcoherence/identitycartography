@@ -24,19 +24,6 @@ Each Core Operator has:
 These are the only operators that are *procedural*.
 
 ———-
-## Compass 
-Compass is the meta‑operator. 
-
-Compass helps you:
-* anchor context
-* stabilize perspective
-* maintain orientation across complexity
-
-***Compass is an operator that helps you determine which core operator to use.***
-
-You will find it here:
-* [COMPASS](../OPERATORS/Compass%20Prompt.md)
-
 
 ---
  
@@ -49,8 +36,6 @@ Instruction for Use describe what the operators do and use cases for each operat
 - [RELIEF](../OPERATORS/IFU/RELIEF%20IFU.md)
 - [SEISMOGRAPH](../OPERATORS/IFU/SEISMOGRAPH%20IFU.md)
 - [PROBE](../OPERATORS/IFU/PROBE%20IFU.md)
-- [COMPASS](../OPERATORS/IFU/COMPASS%20IFU.md)
-
 
 ------
 ### Return to Home

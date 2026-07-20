@@ -184,6 +184,8 @@ Do not extend beyond the point where:
 - no new positions emerge 
 - no new constraints are revealed 
 
+What stops here is this Lens's reach, not the situation's multiplicity. Another instrument may resolve what this one deliberately leaves open.
+
 COMPRESSION RULE
 Every sentence must: 
 - introduce a new position

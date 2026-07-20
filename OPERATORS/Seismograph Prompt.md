@@ -146,6 +146,8 @@ Stop when:
 - no additional structural conflict remains hidden 
 Do not extend beyond structural clarity. 
 
+This is the limit of this Seismograph pass, not a claim that every collision has been found. A separate pass — not this analysis — would be required to look further.
+
 COMPRESSION RULE
 Every statement must: 
 - define a structure
